@@ -1,1 +1,2 @@
-// create a function and implement it
+// create a function and implemen it
+fun greet(name : String): String =  "Hi, $name!"

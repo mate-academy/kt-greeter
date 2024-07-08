@@ -1,1 +1,5 @@
-// create a function and implement it
+package mate.academy
+
+fun greet(name: String): String {
+    return "Hi, $name!"
+}

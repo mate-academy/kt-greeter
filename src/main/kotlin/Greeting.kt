@@ -1,3 +1,3 @@
 fun greet(name: String): String {
-    return "Hi, $name"
+    return "Hi, $name!"
 }

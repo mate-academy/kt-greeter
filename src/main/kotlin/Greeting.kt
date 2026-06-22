@@ -1,5 +1,5 @@
 // create a function and implement it
 
-fun greeter (name: String) : String {
+fun greet (name: String) : String {
     return "Hi, ${name}!"
 }

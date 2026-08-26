@@ -1,1 +1,8 @@
-// create a function and implement it
+fun main () {
+    println(greet("Bruh"))
+}
+
+fun greet(name : String) : String {
+    return "Hi, ${name}!"
+}
+
